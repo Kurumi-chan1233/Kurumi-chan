@@ -27,12 +27,12 @@
 
 ```ts
 {
-"OwnerNumber": "6283891921787",
+"OwnerNumber": "6289671029065",
 "Owner2": "6281243045266", 
-"OwnerName": "Ryuukaa",
-"OwnerNamee": "RyuukaAa", 
-"BotName": "RyuBotz",
-"Fake": "RyuBotz🕊",
+"OwnerName": "Kurumi-chan",
+"OwnerNamee": "Kurumi-chan", 
+"BotName": "Kurumi-chan",
+"Fake": "Kurumi-chan🗿",
 "Lolkey": "YOUR_APIKEY", 
 "DhaKey": "NisaaCantik", 
 "Dana": "62xxxx", 
