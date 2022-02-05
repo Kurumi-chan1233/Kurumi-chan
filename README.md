@@ -1,4 +1,4 @@
-# ```RYUBOTZ```
+# ```Kurumi-chan```
 <p align="center">
 <img src="https://telegra.ph/file/2c1f9f6c417735265715e.jpg" alt="RYUBOTZ" width="500"/>
 <a href="https://github.com/YdzAja/followers"><img title="Followers" src="https://img.shields.io/github/followers/YdzAja?color=red&style=flat-square"></a>
@@ -28,7 +28,7 @@
 ```ts
 {
 "OwnerNumber": "6289671029065",
-"Owner2": "6281243045266", 
+"Owner2": "6289671029065", 
 "OwnerName": "Kurumi-chan",
 "OwnerNamee": "Kurumi-chan", 
 "BotName": "Kurumi-chan",
@@ -68,12 +68,6 @@ Off in web nya
 
 - [`Ryuuka Bot 1`](https://chat.whatsapp.com/LtlEVtptLLBIGcvgS7kzmS)
 - [`Ryuuka Bot 2`](https://chat.whatsapp.com/KYFdPsjHKIr5ToVIqOAunE)
-
-<h3 align="center">Made by :</h3>
-<p align="center">
-  <a href="https://github.com/YdzAja"><img src="https://github.com/YdzAja.png?size=128" height="128" width="128" /></a>
-  <a href="https://github.com/ryuukateam"><img src="https://github.com/ryuukateam.png?size=128" height="128" width="128" /></a>
-</p>
 
 ## `THANKS TO`
 
